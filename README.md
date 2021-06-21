@@ -8,6 +8,7 @@ GFWList URL(Github): https://raw.githubusercontent.com/ace1573/gfwlist/master/gf
 1. config gfwlist url
 2. update pac file
 3. restart service
+4. reopen system proxy config
 
 
 #### Develop
